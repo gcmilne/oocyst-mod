@@ -1,5 +1,5 @@
-## Estimating the longevity of *Toxoplasma gondii* oocyst-specific antibodies
-
+oocyst-mod
+===================
 Milne, G., Webster, J.P and Walker, M., 2020. Toward Improving Interventions Against Toxoplasmosis by Identifying Routes of Transmission Using Sporozoite-specific Serological Tools. *Clinical Infectious Diseases*, 71(10): [https://doi.org/10.1093/cid/ciaa428](https://academic.oup.com/cid/article/71/10/e686/5819395).
 
 ### Model description
